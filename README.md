@@ -1,7 +1,9 @@
 # README #
 
 
-### What is this repository for? Aplicación de prueba para aprender a utilizar JSON en Android
+### What is this repository for? ###
+
+Aplicación de prueba para aprender a utilizar JSON en Android
 
 * Quick summary
 
