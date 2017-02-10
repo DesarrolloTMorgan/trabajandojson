@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Trabajando con JSON</string>
+    <string name="title">Listado de imagenes JSON</string>
+    <string name="mensaje">Cargando datos de la web...</string>
+    <string name="titulo">Cargando</string>
+</resources>
