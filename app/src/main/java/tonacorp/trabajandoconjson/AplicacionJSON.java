@@ -9,8 +9,8 @@ import android.widget.ArrayAdapter;
  */
 
 public class AplicacionJSON extends Application {
-
-    private final static String URL = "https://api.flickr.com/services/feeds/photos_public.gne?format=json"; //URL del documento JSON.
+    
+    private final static String URL = "https://api.flickr.com/services/feeds/photos_public.gne?format=json";
 
     public void getData(Context context, ArrayAdapter<String> adapter){
         new ConexionAsync(context, adapter, URL).execute();
